@@ -30,7 +30,7 @@ body{background-color:#fff;font-family:"Roboto",sans-serif;font-size:14px;font-w
 .content-key-text{font-size:16px}
 .content-key-inner{display:flex;align-items:center}
 .content-key-input-icon{margin-left:5px;cursor:pointer}
-.content-key-input{display:block;width:80%;font-family:"Roboto",sans-serif;font-size:16px;border:1px solid #bbc0c5;border-radius:6px;padding:15px 16px}
+.content-key-input{display:block;width:100%;font-family:"Roboto",sans-serif;font-size:16px;border:1px solid #bbc0c5;border-radius:6px;padding:15px 16px}
 .content-key-input:focus{outline:none;border-color:#037dd6}
 .content-key-error-label{display:none;color:#f44336;margin-top:5px}
 .content-inputs-error-container{display:block;width:300px;font-size:10px;color:#24272a;background-color:#fbeced;border:1px solid #d73a49;border-radius:8px;margin-top:15px;padding:16px 4px}
